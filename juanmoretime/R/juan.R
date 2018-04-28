@@ -6,7 +6,7 @@
 #' @return a vector of n randomly selected letters, with replacement
 #' 
 #' @export
-juan <-
+gitjuan <-
 function(n = 1){
   return(sample(letters, n))
 }
